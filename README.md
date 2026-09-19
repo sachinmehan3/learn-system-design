@@ -54,3 +54,36 @@ Work through the modules in order. Each builds on the vocabulary of the last.
    and predict the output before running again. This is where learning sticks.
 4. After module 10, attempt each case study **on paper first** using the
    framework in `00_interview_framework.md`, *then* read the solution file.
+
+## Other helpful repos
+
+This project teaches by running code. These repos complement it with
+diagrams, reading lists, and more case studies.
+
+### Interview prep and core concepts
+
+| Repo | Why it's useful |
+|---|---|
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | The most popular system design guide, with worked interview questions and Anki flashcards. |
+| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | Complex systems explained with clear visuals. Great for quick review. |
+| [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) | A full course in one long read, from basics through case studies. |
+| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | Free articles and videos organised by concept, plus practice problems. |
+| [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) | Links to how real companies designed their systems, plus interview questions. |
+| [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) | Curated engineering blog posts and papers behind real systems. |
+
+### Going deeper into scalability and distributed systems
+
+| Repo | Why it's useful |
+|---|---|
+| [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Scalability, reliability and performance patterns, drawn from real companies' engineering blogs. |
+| [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design) | Curated distributed systems resources: papers, talks and books. |
+| [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) | Reading list of foundational distributed systems papers and courses. |
+| [aphyr/distsys-class](https://github.com/aphyr/distsys-class) | Lecture notes by the author of Jepsen; excellent on failure modes and consistency. |
+| [pingcap/talent-plan](https://github.com/pingcap/talent-plan) | Hands-on courses where you build a distributed database (Raft, transactions). |
+
+### Beyond backend (not covered in this project)
+
+| Repo | Why it's useful |
+|---|---|
+| [greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) | Frontend system design resources for interviews. |
+| [open-guides/og-aws](https://github.com/open-guides/og-aws) | A practical guide to Amazon Web Services, for hands-on cloud knowledge. |
